@@ -1,6 +1,6 @@
 import sqlite3
 
-# Conexión a la base de datos
+# Conexión a la base de datosjajaj
 def connect_db():
     conn = sqlite3.connect('usuarios.db')
     return conn
